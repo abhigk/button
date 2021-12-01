@@ -1,6 +1,6 @@
 {
   "name": "@abhimind595/usage",
-  "version": "0.1.1-alpha.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@abhimind595/button": "^0.1.1-alpha.0",
+    "@abhimind595/button": "^1.0.0",
     "@abhimind595/title": "^1.2.10"
   },
   "gitHead": "dd8abbfd39ff626ce0bf89cf3da7df37d369a1df"
