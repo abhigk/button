@@ -1,10 +1,10 @@
 {
   "name": "@abhimind595/button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "publish-npm": "npm publish",
+    "publish-npm": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,5 +13,5 @@
   "dependencies": {
     "lodash": "^4.17.19"
   },
-  "gitHead": "328bb2628cfcb744ae7795166a3fe7c89857ac3b"
+  "gitHead": "aca4ae530ac3379c123c11c65e2fc221c22fea74"
 }

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "publish-npm": "npm publish",
+    "publish-npm": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -14,5 +14,5 @@
     "@abhimind595/button": "^0.1.0",
     "@abhimind595/title": "^1.2.10"
   },
-  "gitHead": "328bb2628cfcb744ae7795166a3fe7c89857ac3b"
+  "gitHead": "aca4ae530ac3379c123c11c65e2fc221c22fea74"
 }
