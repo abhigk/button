@@ -1,0 +1,17 @@
+{
+  "name": "@abhimind595/button",
+  "version": "1.2.10",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish-npm": "npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  },
+  "gitHead": "328bb2628cfcb744ae7795166a3fe7c89857ac3b"
+}
